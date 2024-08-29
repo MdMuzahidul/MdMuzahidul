@@ -7,9 +7,8 @@
 <!-- <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515) -->
 
 ## My Handles
- [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mdibuhossain/)
- [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/mdibuhossain) 
- [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/mdibuhossain) 
+ [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-muzahidul-islam-55032a2a1/)
+ [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/MdMuzahidul) 
+ [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Hello-Tourist) 
 <!--  [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/mdibuhossain)  -->
 
-![Profile views](https://gpvc.arturio.dev/mdibuhossain)
