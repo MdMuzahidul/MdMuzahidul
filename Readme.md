@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Muzahidul+Islam!;" />
 </h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdMuzahidul&show_icons=true&theme=dark" alt="MdMuzahidul" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdMuzahidul&show_icons=true&theme=dark" alt="MdMuzahidul" /> <br>  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=taqui-786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 ### My Stacks
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e&labelColor=151515) <br/>
