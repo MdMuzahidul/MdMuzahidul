@@ -1,5 +1,4 @@
 ### My Github Stats
-<hr>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Muzahidul+Islam!;" />
 </h1>
@@ -10,7 +9,7 @@
 <!-- <img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515) <br/> -->
 <!-- <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515) -->
 
-## My Handles
+### My Handles
  [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-muzahidul-islam-55032a2a1/)
  [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/MdMuzahidul) 
  [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Hello-Tourist) 
