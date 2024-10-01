@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e&labelColor=151515) <br/>
 <!-- <img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515) <br/> -->
 <!-- <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515) -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MdMuzahidul)](https://github.com/MdMuzahidul/github-readme-stats)
 
 ### My Handles
  [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-muzahidul-islam-55032a2a1/)
