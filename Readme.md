@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&layout=compact)](https://github.com/MdMuzahidul/github-readme-stats)
+
 
   </div>
 
