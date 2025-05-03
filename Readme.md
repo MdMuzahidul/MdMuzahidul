@@ -24,3 +24,10 @@
  [<img src="https://img.shields.io/badge/muzahid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Hello-Tourist) 
 <!--  [<img src="https://img.shields.io/badge/mdibuhossain-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/mdibuhossain)  -->
 
+### Codeforces
+
+  <div align="center">
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mdibuhossain)
+
+  </div>
