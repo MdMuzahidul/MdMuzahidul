@@ -4,19 +4,25 @@
 </h1>
 
 
-  <div align="center">
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
+</div>
 
-  </div>
+### My Github Stats
 
-#### Deployment
+<div align="center">
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MdMuzahidul&theme=tokyo-night)
+
+</div>
 
 #### Languages
 
