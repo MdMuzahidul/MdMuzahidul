@@ -3,17 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Muzahidul+Islam!;" />
 </h1>
 
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-</div>
-
-### My Github Stats
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahidul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
